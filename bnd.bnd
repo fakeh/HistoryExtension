@@ -1,0 +1,3 @@
+Bundle-SymbolicName: web.vaadin.navigator.history
+Export-Package: com.github.wolfie.history.*
+Import-Package: com.vaadin.*, elemental.json.*
